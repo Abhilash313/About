@@ -1,17 +1,28 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-
+import About from './About';
+import img1 from './teamimages/aryan photo.jpg'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <section className='team'>
+      <div className='center'>
+        <h1>Our Team</h1>
+      </div>
+      <div className='team-content'>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>
+      <About image={img1} Name="Aryan Ruthwik" Role="Technical Coordinator" Link1="https://www.facebook.com/" Link2="https://www.facebook.com/"/>  
+      </div>
+    </section>
+   
+
   </React.StrictMode>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
