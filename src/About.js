@@ -11,8 +11,8 @@ const About = (props) => {
         <h3>{props.Name}</h3>
         <h5>{props.Role}</h5>
         <div className='icons'>
-            <a href={props.Link1}><FontAwesomeIcon className='icons' icon={faInstagram} /></a>
-            <a href={props.Link2}><FontAwesomeIcon className='icons' icon={faEnvelope} /></a>
+            <a href={props.Link1} target="_blank"><FontAwesomeIcon className='icons' icon={faInstagram} size='xl'/></a>
+            <a href={props.Link2} target="_blank"><FontAwesomeIcon className='icons' icon={faEnvelope} size='xl'/></a>
         </div>
     </div>
   )

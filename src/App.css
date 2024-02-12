@@ -25,13 +25,8 @@ a{
 	transition: all .38s ease;
 }
 a:hover{
-	transform: scale(1.2);
+	transform: scale(1.1);
 }
-.box:hover{
-	transform: translateY(-10px);
-	cursor: pointer;
-}
-
 @media(max-width: 1240px){
 	.team{
 		width: 100%;
