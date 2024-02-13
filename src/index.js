@@ -39,13 +39,17 @@ root.render(
       </div>
       <div className='team-content'>
       <About image={img2} Name="Chandra Prakash Jakhar" Role="Student Convener" Link1="https://www.instagram.com/cp_1983?igsh=bjI5bjA3YTY1aDdt" Link2="mailto:2020umt1983@mnit.ac.in"/>
+      <About image={img6} Name="Anil" Role="Convenor" Link1="https://www.instagram.com/_anilgurjar_13/" Link2="mailto:2021uee1549@mnit.ac.in"/>
+      <About image={img27} Name="Aryan Ruthwik" Role="Technical Co-Coordinator" Link1="https://www.instagram.com/ruthwik__24?igsh=MnBtMmgweGdhNXVj" Link2="mailto:2020uec1686@mnit.ac.in"/>
+      <About image={img25} Name="Vishal Poonia" Role="Coordinator" Link1="https://www.instagram.com/pooniavishal1?igsh=MXNqZzc3NjN2NjBxcw==" Link2="mailto:2021ucp1177@mnit.ac.in"/>
+      <About image={img8} Name="Bhupender" Role="Coordinator" Link1="https://www.instagram.com/_thoryy?igsh=cWkxaGZpdXFjbnFs/" Link2="mailto:2021ucp1231@mnit.ac.in"/>
       <About image={img1} Name="Venkatesh" Role="Food & Refreshments Co-Coordinator" Link1="https://www.instagram.com/venky_am_i?igsh=ZjI4emIycXNrMW54" Link2="mailto:2020ucp1048@mnit.ac.in"/>
       <About image={img3} Name="Devendra bijarnia" Role="Monitoring Co-Coordinator" Link1="https://www.instagram.com/devendra.bijarnia?igsh=cGh6N3pveGVhNHU5" Link2="mailto:2021uce1487@mnit.ac.in"/>
       <About image={img4} Name="Rajat Kumar" Role="Accomodation Coordinator" Link1="https://www.instagram.com/rajatmahala2?igsh=bG5tcDY2ODgyZGcw" Link2="mailto:2021uec1493@mnit.ac.in"/>
       <About image={img5} Name="Shreshta Marlapudi" Role="Accomodation Co-Coordinator" Link1="https://www.instagram.com/" Link2="mailto:2020uce1709@mnit.ac.in"/>
-      <About image={img6} Name="Anil" Role="Convenor" Link1="https://www.instagram.com/_anilgurjar_13/" Link2="mailto:2021uee1549@mnit.ac.in"/>
       <About image={img7} Name="Mani" Role="Invitation and Publicity Co-Coordinator" Link1="https://www.instagram.com/manisunny_294?igsh=MXU0YzU2c25ndnRzNA==" Link2="mailto:2022ucp1574@mnit.ac.in"/>
-      <About image={img8} Name="Bhupender" Role="Coordinator" Link1="https://www.instagram.com/_thoryy?igsh=cWkxaGZpdXFjbnFs/" Link2="mailto:2021ucp1231@mnit.ac.in"/>
+      <About image={img26} Name="Ramavath Praveen Naik" Role="Logistics Co-Coordinator " Link1="https://www.instagram.com/_praveen_0016/" Link2="mailto:2020umt1612@mnit.ac.in"/>
+      <About image={img28} Name="vivek naik eslavath" Role="Basketball Coordinator" Link1="https://www.instagram.com/pandu_05_02/" Link2="mailto:2020uee1642@mnit.ac.in"/>
       <About image={img9} Name="Chirayu Gupta" Role="Cultural Coordinator" Link1="https://www.instagram.com/cg_chirayu_gupta/" Link2="mailto:2020uce1534@mnit.ac.in"/>
       <About image={img10} Name="Vara lakshmi" Role="Medical and first aid Co-Coordinator" Link1="https://www.instagram.com/vara_vls?igsh=dW83b3NsMmx6Nzk1" Link2="mailto:2020UMT2004@mnit.ac.in"/>
       <About image={img11} Name="Hari Singh Choudhary" Role="Sounds Co-Coordinator" Link1="https://www.instagram.com/harijat_?igsh=dTJxNWNvd2Qyc2Q0" Link2="mailto:2021uce1466@mnit.ac.in"/>
@@ -59,13 +63,11 @@ root.render(
       <About image={img19} Name="Rajeev" Role="Fixtures Co-coordinator" Link1="https://www.instagram.com/rajeev_repswal29?igsh=MTI0eWp6eGF0bHR4cQ==" Link2="mailto:2021ucp1379@mnit.ac.in"/>
       <About image={img20} Name="Jagdish Hudda" Role="Informal Event Coordinator" Link1="https://www.instagram.com/hudda_jagdish_18?igsh=MmkzcDlrZ3dsZ3dj" Link2="mailto:2021UCP1385@mnit.ac.in"/>
       <About image={img21} Name="T.V.Sai Poojitha" Role="Poster and Certificate Designing Co-Coordinator" Link1="https://www.instagram.com/poojithatallapudi?igsh=MWdsNzRkODBweTl6Mw==" Link2="mailto:2021umt1892@mnit.ac.in"/>
-      <About image={img22} Name="Sai Krishna" Role="Content Writing Co-Coordinator" Link1="https://www.instagram.com/sai_krishna_2410?igsh=MWVhMTdwYm43ZXpuMQ==" Link2="mailto:2020ume1152@mnit.ac.in"/>
       <About image={img23} Name="Rugnath Ram" Role="Table tennis Coordinator" Link1="https://www.instagram.com/rr_choudhary1335/" Link2="mailto:2021ume1335@mnit.ac.in"/>
       <About image={img24} Name="Mira Bhatt" Role="Decor Co-Coordinator" Link1="https://www.instagram.com/miraaculous._?igsh=MTc4c3hrb24xdzc2bQ==" Link2="mailto:2022uar1003@mnit.ac.in"/>
-      <About image={img25} Name="Vishal Poonia" Role="Coordinator" Link1="https://www.instagram.com/pooniavishal1?igsh=MXNqZzc3NjN2NjBxcw==" Link2="mailto:2021ucp1177@mnit.ac.in"/>
-      <About image={img26} Name="Ramavath Praveen Naik" Role="Logistics Co-Coordinator " Link1="https://www.instagram.com/_praveen_0016/" Link2="mailto:2020umt1612@mnit.ac.in"/>
-      <About image={img27} Name="Aryan Ruthwik" Role="Technical Co-Coordinator" Link1="https://www.instagram.com/ruthwik__24?igsh=MnBtMmgweGdhNXVj" Link2="mailto:2020uec1686@mnit.ac.in"/>
-      <About image={img28} Name="vivek naik eslavath" Role="Basketball Coordinator" Link1="https://www.instagram.com/pandu_05_02/" Link2="mailto:2020uee1642@mnit.ac.in"/>
+      <About image={img22} Name="Sai Krishna" Role="Content Writing Co-Coordinator" Link1="https://www.instagram.com/sai_krishna_2410?igsh=MWVhMTdwYm43ZXpuMQ==" Link2="mailto:2020ume1152@mnit.ac.in"/>
+      
+      
       </div>
     </section>
    

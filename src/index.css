@@ -31,6 +31,7 @@
 	height: auto;
 	border-radius: 15px;
 	margin-bottom: 15px;
+  border: 2px solid white;
 }
 .center h1{
 	font-size: 4rem;
