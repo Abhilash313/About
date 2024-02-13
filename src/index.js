@@ -27,6 +27,7 @@ import img22 from './teamimages/img22.jpg'
 import img23 from './teamimages/img23.jpg'
 import img24 from './teamimages/img24.jpg'
 import img25 from './teamimages/img25.jpg'
+import img26 from './teamimages/img26.jpg'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -60,6 +61,7 @@ root.render(
       <About image={img23} Name="Rugnath Ram" Role="Table tennis Coordinator" Link1="https://www.instagram.com/rr_choudhary1335/" Link2="mailto:2021ume1335@mnit.ac.in"/>
       <About image={img24} Name="Mira Bhatt" Role="Decor Co-Coordinator" Link1="https://www.instagram.com/miraaculous._?igsh=MTc4c3hrb24xdzc2bQ==" Link2="mailto:2022uar1003@mnit.ac.in"/>
       <About image={img25} Name="Vishal Poonia" Role="Coordinator" Link1="https://www.instagram.com/pooniavishal1?igsh=MXNqZzc3NjN2NjBxcw==" Link2="mailto:2021ucp1177@mnit.ac.in"/>
+      <About image={img26} Name="Ramavath Praveen Naik" Role="Logistics Co-Coordinator " Link1="https://www.instagram.com/_praveen_0016/" Link2="mailto:2020umt1612@mnit.ac.in"/>
       </div>
     </section>
    
