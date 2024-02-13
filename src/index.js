@@ -64,7 +64,7 @@ root.render(
       <About image={img24} Name="Mira Bhatt" Role="Decor Co-Coordinator" Link1="https://www.instagram.com/miraaculous._?igsh=MTc4c3hrb24xdzc2bQ==" Link2="mailto:2022uar1003@mnit.ac.in"/>
       <About image={img25} Name="Vishal Poonia" Role="Coordinator" Link1="https://www.instagram.com/pooniavishal1?igsh=MXNqZzc3NjN2NjBxcw==" Link2="mailto:2021ucp1177@mnit.ac.in"/>
       <About image={img26} Name="Ramavath Praveen Naik" Role="Logistics Co-Coordinator " Link1="https://www.instagram.com/_praveen_0016/" Link2="mailto:2020umt1612@mnit.ac.in"/>
-      <About image={img27} Name="Aryan Ruthwik" Role="Technical co-coordinator" Link1="https://www.instagram.com/ruthwik__24?igsh=MnBtMmgweGdhNXVj" Link2="mailto:2020uec1686@mnit.ac.in"/>
+      <About image={img27} Name="Aryan Ruthwik" Role="Technical Co-Coordinator" Link1="https://www.instagram.com/ruthwik__24?igsh=MnBtMmgweGdhNXVj" Link2="mailto:2020uec1686@mnit.ac.in"/>
       <About image={img28} Name="vivek naik eslavath" Role="Basketball Coordinator" Link1="https://www.instagram.com/pandu_05_02/" Link2="mailto:2020uee1642@mnit.ac.in"/>
       </div>
     </section>
